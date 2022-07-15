@@ -26,3 +26,4 @@ It mainly refers the course IE7374 under Prof. Ramin, Ng course, and the online 
 :triangular_flag_on_post:By July 17,
 - Upload PCA math notes 
 - Implement linear regression model 
+- Finish Coursera course: [Supervised Machine Learning: Regression](https://www.coursera.org/learn/machine-learning/home/assignments)
